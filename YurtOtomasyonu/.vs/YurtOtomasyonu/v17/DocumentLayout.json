@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\240102058\\YurtOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\models\\yurtotomasyonumodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\models\\yurtotomasyonumodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\ogrenciliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\ogrenciliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|c:\\240102058\\yurtotomasyonu\\yurtotomasyonuwinui\\ogrenciliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\ogrenciliste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\yurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\yurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\ogrencikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\ogrencikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmizinler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmizinler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmizinler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmizinler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmodadurumlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmodadurumlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmgiriscikis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmgiriscikis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmgiriscikis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmgiriscikis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmodadurumlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmodadurumlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmblokeliler1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmblokeliler1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmblokeliler1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmblokeliler1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\ogrencikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\ogrencikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|C:\\240102058\\YurtOtomasyonu\\yurtotomasyonuwinui\\yurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D7417D-20B8-433F-AACB-7399F5465F63}|YurtOtomasyonuWinUI\\YurtOtomasyonuWinUI.csproj|solutionrelative:yurtotomasyonuwinui\\yurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Yurt.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\Yurt.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\Yurt.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\Yurt.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\Yurt.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:39:44.373Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YurtOtomasyonuModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\Models\\YurtOtomasyonuModel.edmx",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\Models\\YurtOtomasyonuModel.edmx",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\Models\\YurtOtomasyonuModel.edmx [Diagram1]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\Models\\YurtOtomasyonuModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-30T05:43:48.335Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmIzinler.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmIzinler.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmIzinler.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmIzinler.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmIzinler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:11:14.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmIzinler.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmIzinler.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmIzinler.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmIzinler.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmIzinler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:04:29.109Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmGirisCikis.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmGirisCikis.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmGirisCikis.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmGirisCikis.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmGirisCikis.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:58:00.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmGirisCikis.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmGirisCikis.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmGirisCikis.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmGirisCikis.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmGirisCikis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:52:14.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmOdaDurumlari.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmOdaDurumlari.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmOdaDurumlari.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmOdaDurumlari.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmOdaDurumlari.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:40:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmOdaDurumlari.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmOdaDurumlari.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmOdaDurumlari.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmOdaDurumlari.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmOdaDurumlari.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:36:37.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmGelirGider.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmGelirGider.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmGelirGider.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmGelirGider.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmGelirGider.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:05:38.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmGelirGider.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmGelirGider.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmGelirGider.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmGelirGider.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmGelirGider.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T03:54:48.319Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmBlokeliler1.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmBlokeliler1.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmBlokeliler1.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmBlokeliler1.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmBlokeliler1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T03:17:20.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmBlokeliler1.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmBlokeliler1.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmBlokeliler1.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmBlokeliler1.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmBlokeliler1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T03:15:32.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmOdemeler.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmOdemeler.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmOdemeler.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmOdemeler.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmOdemeler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T02:36:23.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmOdemeler.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmOdemeler.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmOdemeler.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmOdemeler.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmOdemeler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T02:14:58.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciListe.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\OgrenciListe.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\OgrenciListe.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\OgrenciListe.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\OgrenciListe.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T01:31:54.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgrenciListe.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\OgrenciListe.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\OgrenciListe.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\OgrenciListe.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\OgrenciListe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T01:14:38.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnaEkran.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\AnaEkran.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\AnaEkran.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\AnaEkran.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\AnaEkran.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T01:08:14.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OgrenciKayit.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\OgrenciKayit.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\OgrenciKayit.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\OgrenciKayit.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\OgrenciKayit.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAE4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T02:03:47.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OgrenciKayit.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\OgrenciKayit.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\OgrenciKayit.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\OgrenciKayit.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\OgrenciKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:10:28.013Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmPersonel.cs",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmPersonel.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmPersonel.cs",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmPersonel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T03:39:34.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmPersonel.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\FrmPersonel.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\FrmPersonel.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\FrmPersonel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T03:32:42.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaEkran.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\AnaEkran.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\AnaEkran.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\AnaEkran.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\AnaEkran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:52:02.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Yurt.cs [Design]",
+              "DocumentMoniker": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\Yurt.cs",
+              "RelativeDocumentMoniker": "YurtOtomasyonuWinUI\\Yurt.cs",
+              "ToolTip": "C:\\240102058\\YurtOtomasyonu\\YurtOtomasyonuWinUI\\Yurt.cs [Design]",
+              "RelativeToolTip": "YurtOtomasyonuWinUI\\Yurt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:48:56.62Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

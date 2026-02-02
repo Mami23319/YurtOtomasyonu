@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="YurtOtomasyonuModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="GelirGider">
+    <Key>
+      <PropertyRef Name="GelirGiderID" />
+    </Key>
+    <Property Name="GelirGiderID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PersonelID" Type="int" />
+    <Property Name="Tutar" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Tarih" Type="date" />
+    <Property Name="Aciklama" Type="nvarchar" MaxLength="200" />
+    <Property Name="Tur" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="GirisCikis">
+    <Key>
+      <PropertyRef Name="GirisCikisID" />
+    </Key>
+    <Property Name="GirisCikisID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OgrenciID" Type="int" />
+    <Property Name="IslemId" Type="int" Nullable="false" />
+    <Property Name="Tarih" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Islem">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="IslemTuru" Type="nvarchar" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <EntityType Name="IzinBasvuru">
+    <Key>
+      <PropertyRef Name="IzinID" />
+    </Key>
+    <Property Name="IzinID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OgrenciID" Type="int" />
+    <Property Name="BaslangicTarihi" Type="date" />
+    <Property Name="BitisTarihi" Type="date" />
+    <Property Name="OnayDurumu" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Oda">
+    <Key>
+      <PropertyRef Name="OdaID" />
+    </Key>
+    <Property Name="OdaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OdaNumarasi" Type="nvarchar" MaxLength="10" />
+    <Property Name="Kapasite" Type="int" />
+    <Property Name="Kat" Type="int" />
+    <Property Name="MevcutKisiSayisi" Type="int" />
+  </EntityType>
+  <EntityType Name="Odeme">
+    <Key>
+      <PropertyRef Name="OdemeID" />
+    </Key>
+    <Property Name="OdemeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OgrenciID" Type="int" />
+    <Property Name="Tutar" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="OdemeTarihi" Type="date" />
+    <Property Name="Ay" Type="int" />
+    <Property Name="Yil" Type="int" />
+  </EntityType>
+  <EntityType Name="Ogrenci">
+    <Key>
+      <PropertyRef Name="OgrenciID" />
+    </Key>
+    <Property Name="OgrenciID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TCno" Type="char" MaxLength="11" />
+    <Property Name="AdSoyad" Type="nvarchar" MaxLength="100" StoreGeneratedPattern="None" />
+    <Property Name="DogumTarihi" Type="date" />
+    <Property Name="OdaID" Type="int" />
+    <Property Name="KayitTarihi" Type="date" />
+    <Property Name="Durum" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Personel">
+    <Key>
+      <PropertyRef Name="PersonelID" />
+    </Key>
+    <Property Name="PersonelID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdSoyad" Type="nvarchar" MaxLength="100" />
+    <Property Name="TCno" Type="char" MaxLength="11" />
+    <Property Name="Telefon" Type="nvarchar" MaxLength="15" />
+    <Property Name="Gorev" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yetki" Type="nvarchar" MaxLength="20" />
+    <Property Name="KullaniciAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Sifre" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__GelirGide__Perso__6C190EBB">
+    <End Role="Personel" Type="Self.Personel" Multiplicity="0..1" />
+    <End Role="GelirGider" Type="Self.GelirGider" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Personel">
+        <PropertyRef Name="PersonelID" />
+      </Principal>
+      <Dependent Role="GelirGider">
+        <PropertyRef Name="PersonelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__GirisCiki__Ogren__6383C8BA">
+    <End Role="Ogrenci" Type="Self.Ogrenci" Multiplicity="0..1" />
+    <End Role="GirisCikis" Type="Self.GirisCikis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ogrenci">
+        <PropertyRef Name="OgrenciID" />
+      </Principal>
+      <Dependent Role="GirisCikis">
+        <PropertyRef Name="OgrenciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__IzinBasvu__Ogren__66603565">
+    <End Role="Ogrenci" Type="Self.Ogrenci" Multiplicity="0..1" />
+    <End Role="IzinBasvuru" Type="Self.IzinBasvuru" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ogrenci">
+        <PropertyRef Name="OgrenciID" />
+      </Principal>
+      <Dependent Role="IzinBasvuru">
+        <PropertyRef Name="OgrenciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Odeme__OgrenciID__693CA210">
+    <End Role="Ogrenci" Type="Self.Ogrenci" Multiplicity="0..1" />
+    <End Role="Odeme" Type="Self.Odeme" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ogrenci">
+        <PropertyRef Name="OgrenciID" />
+      </Principal>
+      <Dependent Role="Odeme">
+        <PropertyRef Name="OgrenciID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ogrenci__OdaID__5EBF139D">
+    <End Role="Oda" Type="Self.Oda" Multiplicity="0..1" />
+    <End Role="Ogrenci" Type="Self.Ogrenci" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Oda">
+        <PropertyRef Name="OdaID" />
+      </Principal>
+      <Dependent Role="Ogrenci">
+        <PropertyRef Name="OdaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GirisCikis_Islem">
+    <End Role="Islem" Type="Self.Islem" Multiplicity="1" />
+    <End Role="GirisCikis" Type="Self.GirisCikis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Islem">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="GirisCikis">
+        <PropertyRef Name="IslemId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="YurtOtomasyonuModelStoreContainer">
+    <EntitySet Name="GelirGider" EntityType="Self.GelirGider" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GirisCikis" EntityType="Self.GirisCikis" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Islem" EntityType="Self.Islem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="IzinBasvuru" EntityType="Self.IzinBasvuru" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Oda" EntityType="Self.Oda" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Odeme" EntityType="Self.Odeme" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ogrenci" EntityType="Self.Ogrenci" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Personel" EntityType="Self.Personel" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__GelirGide__Perso__6C190EBB" Association="Self.FK__GelirGide__Perso__6C190EBB">
+      <End Role="Personel" EntitySet="Personel" />
+      <End Role="GelirGider" EntitySet="GelirGider" />
+    </AssociationSet>
+    <AssociationSet Name="FK__GirisCiki__Ogren__6383C8BA" Association="Self.FK__GirisCiki__Ogren__6383C8BA">
+      <End Role="Ogrenci" EntitySet="Ogrenci" />
+      <End Role="GirisCikis" EntitySet="GirisCikis" />
+    </AssociationSet>
+    <AssociationSet Name="FK__IzinBasvu__Ogren__66603565" Association="Self.FK__IzinBasvu__Ogren__66603565">
+      <End Role="Ogrenci" EntitySet="Ogrenci" />
+      <End Role="IzinBasvuru" EntitySet="IzinBasvuru" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Odeme__OgrenciID__693CA210" Association="Self.FK__Odeme__OgrenciID__693CA210">
+      <End Role="Ogrenci" EntitySet="Ogrenci" />
+      <End Role="Odeme" EntitySet="Odeme" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ogrenci__OdaID__5EBF139D" Association="Self.FK__Ogrenci__OdaID__5EBF139D">
+      <End Role="Oda" EntitySet="Oda" />
+      <End Role="Ogrenci" EntitySet="Ogrenci" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GirisCikis_Islem" Association="Self.FK_GirisCikis_Islem">
+      <End Role="Islem" EntitySet="Islem" />
+      <End Role="GirisCikis" EntitySet="GirisCikis" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
